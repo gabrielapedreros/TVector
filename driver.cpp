@@ -1,8 +1,8 @@
+//Gabriela Pedreros - gp21j - COP4530 - Tvector Project Driver file
+//Drive file provided by instructor to complete assignment
 #include <iostream>
 #include <string>
-
 #include "tvector.h"
-
 using namespace std;
 
 template <typename T> 
