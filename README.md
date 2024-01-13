@@ -1,7 +1,7 @@
 # TVector
 Templated vector class with iterator class
 
-# Output
+# Output given driver.cpp
 v1 size is: 10
 v1 = 0 3 6 9 12 15 18 21 24 27
 
