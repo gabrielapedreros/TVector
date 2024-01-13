@@ -419,7 +419,7 @@ TVector<T> operator+(const TVector<T>& t1, const TVector<T>& t2)
     //obj together  - in param order
     TVector<T> v = t1;
     int max = t1.GetSize() + t2.GetSize();
-    cout << max << "\n";
+    //cout << max << "\n";
     //cout << t1.GetSize() << " " <<  t2.GetSize() << " ";
     v.SetCapacity(max);
 
